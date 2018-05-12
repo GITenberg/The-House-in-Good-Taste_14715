@@ -1,0 +1,32 @@
+_repo: The-House-in-Good-Taste_14715
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: De Wolfe, Elsie
+    aliases:
+    - Mendl, Elsie De Wolfe, Lady
+    - Wolfe, Elsie de
+    birthdate: 1865
+    deathdate: 1950
+    gutenberg_agent_id: '5644'
+    url: http://www.gutenberg.org/2009/agents/5644
+    wikipedia: http://en.wikipedia.org/wiki/Elsie_de_Wolfe
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2005-01-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14715'
+  lccn: '13023377'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Interior decoration'
+- !lcc 'NK'
+title: The House in Good Taste
+url: http://www.gutenberg.org/ebooks/14715
